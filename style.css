@@ -1,0 +1,13 @@
+body {    
+	background-image: url("http://res2.windows.microsoft.com/resbox/en/windows/main/62a50d18-c4f4-49f1-8f68-35ff97222b4e_4.jpg");
+    background-color: #cccccc;
+}
+
+a {
+	color: #2b2bf6;
+}           
+   
+h2 {	
+	color: white; 
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
