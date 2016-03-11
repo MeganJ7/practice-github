@@ -1,6 +1,44 @@
 
 
-# def number(x)
+# create a method called area that takes in 2 arguments-intergers
+# then dispts the answer in this format: the area is ____"
+# def area(lenght,width)
+# 	new_area = lenght * width
+# 	puts "The area is #{new_area}"
+# end
+# area(10,9)
+# area(5,5)
+
+# def perimeter(lenght,width)
+# 	new_perimeter = (2* lenght) + (2 * width)
+# 	puts "The perimeter is #{new_perimeter}"
+# end
+# perimeter(9,2)
+# perimeter(10,20)
+# perimeter(5,12)
+
+# Define a method that takes in one argument - array of integers
+# Within the method, loop through the array
+# If the number is less than 20, push into a new array
+# Display the new array 
+
+# def number_check(array)
+# 	new_array = []
+# 	array.each do |x|
+# if x < 5
+# 	new_array.unshift(x)
+# 	# new_array.push(x)
+# 	end
+# end
+# 	p new_array
+
+# end
+# number_check([1,2,3,4,5,6])
+
+
+
+
+
 # 	if x % 2 == 0 ?
 # 		puts "you are even"
 # 	else 
